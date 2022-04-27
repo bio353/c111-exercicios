@@ -1,6 +1,6 @@
 # Exercicios de Análise de Dados
 
-Criei este repositório para publicar os exercícios resolvidos da disciplina de Análise de Dados e assim ajudar colegas de classe a estudar para a prova. [🦜](https://www.youtube.com/watch?v=nYc09Xqy3hE)
+Criei este repositório para publicar os exercícios resolvidos da disciplina de Análise de Dados e assim ajudar colegas de classe a estudarem para a prova. [🦜](https://www.youtube.com/watch?v=nYc09Xqy3hE)
 
 ## Lista de Capítulos
 
